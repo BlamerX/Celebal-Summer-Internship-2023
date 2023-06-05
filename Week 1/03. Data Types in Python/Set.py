@@ -24,3 +24,6 @@ else:
 # Iterate over the set and print out each number
 for number in numbers:
     print(number)
+
+b = frozenset({4, 5})  # frozenset
+print(type(b))  # Output: <class 'frozenset'>

@@ -2,9 +2,9 @@
 list and tuple fall under the Python Sequential DataType
 these are data types that holds items
 
-List - List is an ordered collection of similar or different types of items separated by commas and enclosed within brackets [ ].
+* List - List is an ordered collection of similar or different types of items separated by commas and enclosed within brackets [ ].
 
-Tuple - Tuple is an ordered sequence of items same as a list. The only difference is that tuples are immutable. Tuples once created cannot be modified.In Python, we use the parentheses () to store items of a tuple.
+* Tuple - Tuple is an ordered sequence of items same as a list. The only difference is that tuples are immutable. Tuples once created cannot be modified.In Python, we use the parentheses () to store items of a tuple.
 """
 
 # List Example

@@ -1,9 +1,11 @@
 """
 Integers, floating-point numbers and complex numbers fall under Python numbers category. They are defined as int, float and complex classes in Python.
 
-int - holds signed integers of non-limited length.
-float - holds floating decimal points and it's accurate up to 15 decimal places.
-complex - holds complex numbers.
+* int - holds signed integers of non-limited length.
+
+* float - holds floating decimal points and it's accurate up to 15 decimal places.
+
+* complex - holds complex numbers.
 """
 
 # We can use the type() function to know which class a variable or a value belongs to.
