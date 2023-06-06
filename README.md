@@ -9,13 +9,13 @@
 - `Learn Python Basics and upload to github`
 - `complete 30` [LeetCode](https://leetcode.com/problemset/all/) `Question in Python.`
 
-| Topic                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| [01. Basics of Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)     |
-| [02. Operators in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)  |
-| [03. Data Types in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python) |
-| [04. Functions in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)  |
-| [05. OOPs in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)       |
+| Topic                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| [01. Basics of Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)           |
+| [02. Operators in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/02.%20Operators%20in%20Python)     |
+| [03. Data Types in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/03.%20Data%20Types%20in%20Python) |
+| [04. Functions in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/04.%20Functions%20in%20Python)     |
+| [05. OOPs in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/01.%20Basics%20of%20Python)             |
 
 # Skills Used
 
