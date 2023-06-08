@@ -8,6 +8,7 @@
 
 - `Learn Python Basics and upload to github`
 - `complete 30` [LeetCode](https://leetcode.com/problemset/all/) `Question in Python.`
+- `Create a Simple Python Project Usin the concepts that you Learned`
 
 | Topic                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,6 +17,7 @@
 | [03. Data Types in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/03.%20Data%20Types%20in%20Python) |
 | [04. Functions in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/04.%20Functions%20in%20Python)     |
 | [05. OOPs in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/05.%20OOPs%20in%20Python)               |
+| [06. Simple Project](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/06.%20Simple%20Project)                 |
 
 # Skills Used
 
