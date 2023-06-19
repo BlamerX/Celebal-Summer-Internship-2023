@@ -2,13 +2,13 @@
 
 ![Logo](https://celebaltech.com/assets/img/celebal.webp)
 
-# Week 1
+# Week 1 (Python Basics)
 
 **Task Assigned :**
 
 - `Learn Python Basics and upload to github`
 - `complete 30` [LeetCode](https://leetcode.com/problemset/all/) `Question in Python.`
-- `Create a Simple Python Project Usin the concepts that you Learned`
+- `Assignment : Write or experiment with a python code that involves all the concepts learnt  in week1 like oops concept, pep8, python libraries, pavkages and modules, etc.`
 
 | Topic                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,13 +17,28 @@
 | [03. Data Types in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/03.%20Data%20Types%20in%20Python) |
 | [04. Functions in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/04.%20Functions%20in%20Python)     |
 | [05. OOPs in Python](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/05.%20OOPs%20in%20Python)               |
-| [06. Simple Project](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/06.%20Simple%20Project)                 |
+| [06. Assignment](https://github.com/BlamerX/Celebal-Summer-Internship/tree/master/Week%201/06.%20Simple%20Project)                     |
 
-# Skills Used
+# Week 2 (Statistics and Probability)
+
+**Task Assigned :**
+
+- `Complete Statistics and Probabilty from` [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
+# Week 3 (Python Libraries)
+
+**Task Assigned :**
+
+- `Get a good understanding of numpy, pandas and matplotlib`
+- `Get hands on practice of the same`
+- `Perform EDA on a dataset of your choice : titanic dataset, house price prediction, churn dataset etc`
+
+# Skills Learned
 
 - **Python Programming Language**
+- **Data Visulaization**
 
-# 🔗 Links
+# 🔗 My Works
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-374150171/)
 
