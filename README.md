@@ -33,7 +33,7 @@
 - `Get hands on practice of the same`
 - `Perform EDA on a dataset of your choice : titanic dataset, house price prediction, churn dataset etc`
 
-![](./Week%203/Celebal%20week%203.png)
+![](https://github.com/BlamerX/Celebal-Summer-Internship-2023/blob/master/Week%203/Celebal%20week%203.png)
 
 # Skills Learned
 
