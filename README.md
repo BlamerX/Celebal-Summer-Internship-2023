@@ -41,16 +41,6 @@
 
 - `Create a machine learning model on any dataset with performing the EDA`
 
-` Mall Customer Segmentation`
-
-In this project I have tried to demonstrate the use of Machine Learning in businesses for profit enhancement.
-
-Unsupervised Learning(Clustering) is used to find the hidden data patterns or structures which can be used by an organiztion(like mall, shopping complexes etc) to target the right audience and hence increase profit margin.
-
-Also, this approach allows the organizations to spend less on advertisements by first choosing the right audience and then advertising.
-
-### The data set is available on **[Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)**
-
 # Skills Learned
 
 - **Python Programming Language**
