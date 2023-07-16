@@ -41,10 +41,32 @@
 
 - `Create a machine learning model on any dataset with performing the EDA`
 
+# Week 6 (Project 1) - Group Assignment
+
+**Task Assigned**
+
+- `We had to create a Flask web app to predict the AQI using the Pollutents.`
+- `Problem Statement is Provided here -` []()
+- `The Code can be found on Kaggle - `[Kaggle](https://www.kaggle.com/code/blamerx/india-air-quality-index-eda-prediction)` Give a Upvote ⬆️ if you Liked it`
+- `The Flask App is running here - ` [Live Link]()
+
+# Week 7 (Project 2) - Group Assignment
+
+**Task Assigned**
+
+- `We had to create a Flask web app to predict the Text lies under which category of speech.`
+- `Problem Statement is Provided here -` []()
+- `The Code can be found here - `[Notrebook]()
+- `The Flask App is running here - ` [Live Link]()
+
 # Skills Learned
 
 - **Python Programming Language**
 - **Data Visulaization**
+- **Web Scrapping**
+- **Regression Models**
+- **Flask API**
+- **Machine Learning**
 
 # 🔗 My Works
 
