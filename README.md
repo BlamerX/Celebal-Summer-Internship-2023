@@ -46,18 +46,10 @@
 **Task Assigned**
 
 - `We had to create a Flask web app to predict the AQI using the Pollutents.`
-- `Problem Statement is Provided here -` []()
+- `Problem Statement is Provided here -` [Problem Statement](https://github.com/BlamerX/Celebal-Summer-Internship-2023/blob/master/Week%206/ML_project1.txt)
 - `The Code can be found on Kaggle - `[Kaggle](https://www.kaggle.com/code/blamerx/india-air-quality-index-eda-prediction)` Give a Upvote ⬆️ if you Liked it`
-- `The Flask App is running here - ` [Live Link]()
-
-# Week 7 (Project 2) - Group Assignment
-
-**Task Assigned**
-
-- `We had to create a Flask web app to predict the Text lies under which category of speech.`
-- `Problem Statement is Provided here -` []()
-- `The Code can be found here - `[Notrebook]()
-- `The Flask App is running here - ` [Live Link]()
+- `The Flask App Code - ` [Github Link](https://github.com/BlamerX/Air-Quality-Index-Prediction-Website)
+- `The Flask App is running here - ` [Live Link](https://air-quality-index-prediction-3ur1.onrender.com)
 
 # Skills Learned
 
